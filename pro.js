@@ -481,4 +481,4 @@ client.on('message', message => {
 
 
 
-client.login('NTU3MDc5NTk4MTYxMDY4MDQz.D34iYg.-8OTQ3e8Blx6BDD5BWiz8KfcGdA');
+client.login('NjIxODYzNzc5OTU2OTQ5MDAy.XZOCbA.QI8scusHPfQGoQ4ar77AdTwT6_c');
